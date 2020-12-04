@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_Square"
+        android:title="@string/menu_Square" />
+    <item android:id="@+id/menu_Cube"
+        android:title="@string/menu_Cube" />
+    <item android:id="@+id/menu_FourthDegree"
+        android:title="@string/menu_FourthDegree" />
+</menu>

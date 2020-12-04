@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab3</string>
+    <string name="string_enterNumber">Enter number</string>
+    <string name="menu_Square">Square number</string>
+    <string name="menu_Cube">Cube number</string>
+    <string name="menu_FourthDegree">Fourth degree</string>
+    <string name="string_helloWorld">Hello World!</string>
+</resources>
